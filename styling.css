@@ -1,0 +1,22 @@
+/*
+TITLE: Lab 5 - APIs and Form Enhancement
+AUTHOR: Andrew Hage (AH)
+CREATE DATE: April 10, 2024
+PURPOSE: This lab demonstrates material from chapter 13 of the textbook.
+LAST MODIFIED ON: April 14,2024
+LAST MODIFIED BY: Andrew Hage(AH)
+MODIFICATION HISTORY: Added comment block to all files (AH)
+*/
+
+/* CSS is stored in an external file. */
+body {
+    font-family: Arial, sans-serif;
+}
+#output {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f0f0f0;
+}
+.form-element {
+    margin-bottom: 10px;
+}
